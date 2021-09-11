@@ -11,12 +11,12 @@
         "librisinglava.so"
     ],
     "libraryFiles": [
-        "libbeatsaber-hook_1_3_5.so"
+        "libbeatsaber-hook_2_3_0.so"
     ],
     "dependencies": [
         {
             "id": "MonkeComputer",
-            "version": "1.5.2",
+            "version": "0.8.0",
             "downloadIfMissing": "https://github.com/RedBrumbler/MonkeComputer/releases/download/1.5.2/MonkeComputer.qmod"
         }
     ],
