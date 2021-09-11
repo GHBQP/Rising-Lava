@@ -16,7 +16,7 @@
     "dependencies": [
         {
             "id": "MonkeComputer",
-            "version": "0.8.0",
+            "version": "1.6.1",
             "downloadIfMissing": "https://github.com/RedBrumbler/MonkeComputer/releases/download/1.5.2/MonkeComputer.qmod"
         }
     ],
